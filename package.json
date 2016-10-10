@@ -1,0 +1,36 @@
+{
+  "name": "webbuilding",
+  "version": "1.0.0",
+  "description": "Demo web ",
+  "main": "index.js",
+  "scripts": {
+    "test": "no command"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThePhan/BuildingDemo.git"
+  },
+  "keywords": [
+    "Building"
+  ],
+  "author": "ChrisPhan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ThePhan/BuildingDemo/issues"
+  },
+  "homepage": "https://github.com/ThePhan/BuildingDemo#readme",
+  "dependencies": {
+    "babel-core": "^6.17.0",
+    "express": "^4.14.0",
+    "isomorphic": "0.0.11",
+    "react": "^15.3.2",
+    "react-dom": "^15.3.2",
+    "webpack": "^1.13.2",
+    "webpack-dev-server": "^1.16.2"
+  },
+  "devDependencies": {
+    "babel-loader": "^6.2.5",
+    "babel-preset-es2015": "^6.16.0",
+    "babel-preset-react": "^6.16.0"
+  }
+}
